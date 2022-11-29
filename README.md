@@ -17,9 +17,11 @@ Offcial TDAbleton sample is a little complex. This sample is easy to use for me.
 6. make operator OSCIN chop
 7. set host and port(default: host 127.0.0.1, port 19951)
 
-![setting of ableton live](https://github.com/Taito-Otani/OT_TDAbleton/blob/main/img/img2.png "setting of ableton live")
+
 
 #### message list
 /attack 0 - 1
 /peak 0.0 - 1.0
 /note 0 -  88
+
+![setting of ableton live](https://github.com/Taito-Otani/OT_TDAbleton/blob/main/img/img2.png "setting of ableton live")
